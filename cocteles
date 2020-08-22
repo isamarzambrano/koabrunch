@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tipos de bebidas</title>
+</head>
+<body>
+  <h1>Cocteles</h1>
+  <ol>
+      <li>Coctel de melocoton, te verde y vainilla</li>
+      <li>Coctel de naranja con aroma a menta</li>
+      <li>Coctel de sandia y agua de coco</li> 
+  
+  </ol>
+</body>
+</html>
